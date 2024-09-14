@@ -5,6 +5,11 @@
 !!! IF EDITING THE README, ENSURE TO COPY THE WHOLE FILE TO index.md in `/docs/` AND REMOVE THE REFERENCES TO ReadTheDocs THERE.
 --->
 
+# Roadmap for this fork:
+- add `--subdirectories` flag to `spotdl sync` which will update all subdirectories as well (working on this)
+- NextJS frontend for using SpotDL (planned)
+<hr/>
+
 <div align="center">
 
 # spotDL v4
