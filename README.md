@@ -4,18 +4,14 @@
 <!---
 !!! IF EDITING THE README, ENSURE TO COPY THE WHOLE FILE TO index.md in `/docs/` AND REMOVE THE REFERENCES TO ReadTheDocs THERE.
 --->
-
-# Roadmap for this fork:
-- add `--subdirectories` flag to `spotdl sync` which will update all subdirectories as well (working on this)
-- NextJS frontend for using SpotDL (planned)
 <hr/>
 
 <div align="center">
 
-# spotDL v4
+# SpotDL v4 (Simplifed)
 
-**spotDL** finds songs from Spotify playlists on YouTube and downloads them - along with album art, lyrics and metadata.
-
+**spotDL** finds songs from Spotify playlists on YouTube and downloads them - along with album art, lyrics and metadata.\
+This fork makes SpotDL simpler and removes useless features for my use case. Check [here](https://github.com/spotDL/spotify-downloader) for the original repository
 
 [![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/spotDL/spotify-downloader/blob/master/LICENSE)
 [![PyPI version](https://img.shields.io/pypi/pyversions/spotDL?color=%2344CC11&style=flat-square)](https://pypi.org/project/spotdl/)
@@ -29,7 +25,6 @@
 ______________________________________________________________________
 **[Read the documentation on ReadTheDocs!](https://spotdl.readthedocs.io)**
 ______________________________________________________________________
-
 
 ## Installation
 
